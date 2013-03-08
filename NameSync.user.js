@@ -341,7 +341,7 @@
 				headers: {"X-Requested-With":"NameSync3"},
 				dataType: dType,
 				type: type,
-				url: "http://www.milkyis.me/namesync/" + file + ".php",
+				url: "https://www.milkyis.me/namesync/" + file + ".php",
 				ifModified: ifmodified,
 				data: data,
 				xhrFields: {
