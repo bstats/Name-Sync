@@ -1,3 +1,7 @@
+2.6.85
+- (bstats) Forked from milkytiptoe/Name-Sync 2.6.84
+- (bstats) Changed to use b-stats.org's Name-Sync server
+
 2.6.84
 - Disabled https for time being
 - Fixed syncing
